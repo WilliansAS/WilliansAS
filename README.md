@@ -18,35 +18,17 @@ Siempre en busca de aprender nuevas tecnologías y mejorar mis habilidades como 
 
 <h2> Tecnologías y herramientas <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> </h2>
 
-<p style="white-space: nowrap;">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg" title="C++">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" title="JavaScript">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg" title="TypeScript">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" title="HTML">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" title="CSS">
-</p>
+<h2> Lenguajes </h2>
+  [![Lenguajes](https://skillicons.dev/icons?i=js,ts,cpp,html,css)](https://skillicons.dev)
 
-<p style="white-space: nowrap;">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg" title="React">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg" title="Angular">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuejs.svg" title="Vue.js">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg" title="Laravel">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dotnet.svg" title=".NET">
-  <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" title="NestJS">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg" title="Express">
-  <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS">
-</p>
+<h2> Frameworks y Librerías </h2>
+  [![Frameworks](https://skillicons.dev/icons?i=react,angular,vue,laravel,dotnet,nestjs,express,tailwind)](https://skillicons.dev)
 
-<p style="white-space: nowrap;">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg" title="MySQL">
-  <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg" title="MongoDB">
-</p>
+<h2> Bases de datos </h2>
+  [![Bases de datos](https://skillicons.dev/icons?i=mysql,mysql,mongodb,mssql)](https://skillicons.dev)
 
-<p style="white-space: nowrap;">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg" title="Git">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" title="GitHub">
-</p>
+<h2> Herramientas </h2>
+  [![Herramientas](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,postman,npm,figma)](https://skillicons.dev)
 
 ---
 
